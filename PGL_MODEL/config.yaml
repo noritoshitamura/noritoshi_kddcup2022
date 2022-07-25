@@ -1,0 +1,30 @@
+# dataset
+data_path: "./data"
+filename: "wtbdata_245days.csv"
+input_len2: 144
+output_len: 288
+# var_len: 13
+var_len: 11
+capacity: 134
+patient: 2 
+
+train_days: 214 
+val_days: 16
+test_days: 15
+total_days: 245
+num_workers: 4
+epoch: 60
+batch_size: 34 #33
+output_path: "./output"
+log_per_steps: 100
+lr: 0.00004500
+# Model
+model:
+    hidden_dims: 512
+    nhead: 8
+    dropout: 0.56
+    encoder_layers: 2
+    decoder_layers: 1
+loss:
+    name: "FilterMSELoss"
+
