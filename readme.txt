@@ -65,7 +65,7 @@ Directory structure
 
   * () mean file deleted from shared holder. 
   
-./noritoshi_kddcup20200
+./noritoshi_kddcup2022
  | --- (test_x.zip)
  | --- (test_y.zip)
  | --- readme.txt                                                           This file
