@@ -78,7 +78,7 @@ Directory structure
         | --- predict.py
         | --- prepare.py
         | --- preprocessing.py                                              Preprocessing code for train
-        | --- preprocessing2.py                                             Preprocessing code for evaliation
+        | --- preprocessing2.py                                             Preprocessing code for evaluation
         | --- test_data.py
         | --- train.py
         | --- wind.pkl                                                      Saved factors for normalize features 
