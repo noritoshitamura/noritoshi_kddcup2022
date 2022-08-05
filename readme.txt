@@ -1,4 +1,4 @@
-Manual on Building Models and using      (2022.07.25)                                                                              
+Instructions  Building　and using Models       (2022.07.25)                                                                              
 
   Author: Noritosh Tamura (tamura@feg.co.jp)
           Financial Engineering Group, Inc.
